@@ -1,0 +1,15 @@
+{
+  "name": "todo-mvc",
+  "version": "1.0.0",
+  "description": "todo-mvc를 뚝딱뚝딱해보자",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "soso",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
